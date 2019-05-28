@@ -5,10 +5,10 @@
 Clone this repository in your computer:
 
 ```
-$ git clone https://github.com/ricardopdj/github.git
+$ git clone https://github.com/ricardopdj/github_users.git
 ```
 
-Or [download](https://github.com/ricardopdj/github/archive/master.zip) it as a ZIP file.
+Or [download](https://github.com/ricardopdj/github_users/archive/master.zip) it as a ZIP file.
 
 ### Prerequisites
 
@@ -29,14 +29,14 @@ Open a terminal at the project root and run `npm install` to install all depende
 Open a terminal at the app's root folder and run `npm start`
 
 ## Run Offline
-1. Remove ["homepage": "http://ricardopdj.github.io/github"] from the package.json file
+1. Remove ["homepage": "http://ricardopdj.github.io/github_users"] from the package.json file
 1. Run `npm run build`
 2. Run `serve -s build`. If serve isn't installed enter `npm install -g serve` and repeat step 2.
 3. Navigate to localhost:5000 as listed on your terminal.
 
 ### Demo
 
-[https://ricardopdj.github.io/github/](https://ricardopdj.github.io/github/)
+[https://ricardopdj.github.io/github_users/](https://ricardopdj.github.io/github_users/)
 
 ## Built With
 
